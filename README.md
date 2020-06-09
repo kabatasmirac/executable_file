@@ -1,7 +1,7 @@
 # executable_file
 Python dosyalarınızı çalıştırılabilir dosyalar yapabilirsiniz.
 
-#açıklama
+# açıklama
 Pythonda yazmış olduğunuz kodlarınızı uygulamaya dönüştürmek istiyorsanız bu kodları kullanabilirsiniz.
 
 Bunun için konsolunuzda ilgili dosyanın altına gidip komut satırına "python setup.py build" yazmanız yeterli olacaktır.
